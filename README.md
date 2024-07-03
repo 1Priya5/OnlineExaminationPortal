@@ -6,3 +6,8 @@ Server: Apache Tomcat
 Language: Java(JavaEE)
 
 Front end : Html,Css,JavaScript
+
+Features:
+.Mutliple exam at a time
+.Duration of time 
+.Shuffling Question
